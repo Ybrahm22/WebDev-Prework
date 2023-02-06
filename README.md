@@ -11,6 +11,7 @@ Codepath WebDev Prework
 **Topic:** Cybersecurity Website
 
 ### Create a wireframe## (Required)
+<img src="https://github.com/Ybrahm22/WebDev-Prework/blob/main/Global%20News.jpg">
 
 ### Create a video walkthrough## (Required)
 
