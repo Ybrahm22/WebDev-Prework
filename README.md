@@ -14,7 +14,10 @@ Codepath WebDev Prework
 <img src="https://github.com/Ybrahm22/WebDev-Prework/blob/main/Global%20News.jpg">
 
 ### Create a video walkthrough## (Required)
-<img src="https://github.com/Ybrahm22/WebDev-Prework/blob/main/Video%20Walkthroughjpg.mp4">
+
+<https://user-images.githubusercontent.com/92263215/216855176-46b9274b-6a82-4834-9a0c-cc6f96a27611.mp4>
+
+
 
     
     
