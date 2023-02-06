@@ -8,7 +8,7 @@ Codepath WebDev Prework
 **Submission Checklist:**
 ### Choose a website topic (Required)
 
-**Topic:** Cybersecurity Website
+**Topic:** Educational Cybersecurity Newsletter
 
 ### Create a wireframe  (Required)
 <img src="https://github.com/Ybrahm22/WebDev-Prework/blob/main/Global%20News.jpg">
